@@ -1,0 +1,5 @@
+--- Ambiente e fonte de energia ---
+2
+Model name:                              Intel(R) Xeon(R) CPU @ 2.20GHz
+online CPUs: 2 | reps: 3 | warmups: 1 | tdp-watts: 65.0
+Energy backend: none (falls back to TDP_ESTIMATE)
